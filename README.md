@@ -79,5 +79,5 @@ For any questions or suggestions:
 Waleed Afridi
 📧 [patlu7150@gmail.com]
 🌍 GitHub: github.com/WaleedAfridi-1
-   git clone https://github.com/yourusername/olympic-data-analysis.git
+   git clone https://github.com/WaleedAfridi-1/olympic-data-analysis.git
    cd olympic-data-analysis
